@@ -49,25 +49,7 @@
 					</nav>
 				</header>
 
-				<div class="content">
-					<header>
-						<h2>Crawl forward, Heathen</h2>
-					</header>
-					<p>Work as a means of illumination, dancing between ritual and hallucination</p> 
-					<p>Witness the witching hour.</p>
-					<footer>
-						<a href="#me" class="button style2 down">More</a>
-					</footer>
-				</div>
-			</section>
 
-		<!-- Art -->
-			<section id="art" class="main style3 primary">
-				<div class="content">
-					<header>
-						<h2>Gallery</h2>
-						<p>Described as both luminant and haunting, my work serves as a personal navigation of spiritual and existential uncertainty.</p>
-					</header>
 
 					<!-- Gallery  -->
 						<div class="content">
