@@ -503,7 +503,7 @@ input, select, textarea {
 		font-weight: 400;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #292929;
 		letter-spacing: 0.025em;
 	}
 
@@ -587,7 +587,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #98c593;
+		color: #292929;
 	}
 
 	sub {
@@ -621,7 +621,7 @@ input, select, textarea {
 
 	.box {
 		background: #ffffff;
-		color: #39454b;
+		color: #292929;
 		padding: 2em;
 	}
 
@@ -661,7 +661,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #292929;
 		border: 0;
 		border-radius: 3.5em;
 		color: #ffffff;
@@ -857,7 +857,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #39454b;
+		color: #292929;
 		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
@@ -1218,7 +1218,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #39454b;
+				background: #292929;
 				color: #ffffff;
 			}
 
@@ -2297,7 +2297,7 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
+		background: #292929;
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
 	}
