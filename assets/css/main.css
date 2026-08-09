@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	: inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -499,8 +499,8 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
-		font-weight: 300;
+		font-family: "Fondamento", cursive;
+		font-weight: 400;
 		font-size: 18pt;
 		line-height: 1.75em;
 		color: #39454b;
