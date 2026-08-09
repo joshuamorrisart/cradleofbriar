@@ -1,1 +1,166 @@
+<!-- 
+ 	Credits:
+		ajlkn @ GitHub
+		kitbur @ GitHub
+-->
+
+<!DOCTYPE HTML>
+<html>
+
+	<!-- Meta -->
+	<head>
+		<title>Cradle of Briar</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
+		<script src="https://kit.fontawesome.com/6a115512bd.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+
+				<!-- Slideshow Images -->
+				<div class="slideshow">
+				    <div class="overlay"></div>
+    				<div class="slide active" slideshowImage="images/slideshow/Morris_Joshua_2.jpg"></div>
+    				<div class="slide" slideshowImage="images/slideshow/Morris_Joshua_5.jpg"></div>
+    				<div class="slide" slideshowImage="images/slideshow/Morris_Joshua_7.jpg"></div>
+				</div>
+
+				<!-- Slideshow Navigation -->
+				<div class="slideshowNav">
+					<button class="navDot active" data-index="0" aria-label="Show image 1"></button>
+					<button class="navDot" data-index="1" aria-label="Show image 2"></button>
+					<button class="navDot" data-index="2" aria-label="Show image 3"></button>
+				</div>
+						
+				<!-- Header -->
+				<header id="header">
+					<nav>
+						<ul>
+							<li><a href="#me">About Me</a></li>
+							<li><a href="#art">My Art</a></li>
+							<li><a href="#social">Socials</a></li>
+							<li><a href="#contact">Contact Me</a></li>
+						</ul>
+					</nav>
+				</header>
+
+				<div class="content">
+					<header>
+						<h2>Crawl forward, Heathen</h2>
+					</header>
+					<p>Work as a means of illumination, dancing between ritual and hallucination</p> 
+					<p>Witness the witching hour.</p>
+					<footer>
+						<a href="#me" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Art -->
+			<section id="art" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>Gallery</h2>
+						<p>Described as both luminant and haunting, my work serves as a personal navigation of spiritual and existential uncertainty.</p>
+					</header>
+
+					<!-- Gallery  -->
+						<div class="content">
+						<p>Coming Soon<br />
+										Velvet - Manifest Gallery - Cincinnati, Ohio<br />
+										
+										<p>Currently on Exhibit<br />
+										Transformation - Mint Museum Uptown - Charlotte, North Carolina<br />
+										Look and See - Cain Art Center - Cornelius, North Carolina<br />
+											
+										<br />
+										Past Shows<br />
+										Beginnings - Christ Church Episcopal - Charlotte, North Carolina<br />
+										KINTSUGI - Dark Side Studios - Mount Holly, North Carolina - October 2025-April 2026<br />
+										Sacred Earth/Sacred Responsibility - The Gallery at Morning Star - Mattews, North Carolina - February 2026-May 2026<br />
+										The Collective - Nomad Gallery - Grand Rapids, Michigan<br />
+										32nd Annual - Lowell Art Gallery - Lowell, Michigan<br />
+										SeoulTech Student Exchange - Seoul, South Korea<br />
+										Graveyard Shift - Padnos Gallery - Grand Rapids, Michigan<br />
+										Whispering Woods - Padnos Gallery - Grand Rapids, Michigan</p>
+						</div>
+
+				</div>
+			</section>
+
+		<!-- Social Media -->
+		<section id="social" class="main style2 left dark fullscreen" data-bg="images/noise01.jpg" data-bg-position="25%">
+			<div class="content box style2">
+				<header>
+					<h2>Find Me</h2>
+				</header>
+				<p>If you'd like to connect online or in person, find me below.</p>
+
+				<!-- Social Media Icons -->
+				<ul class="icons">
+					<li><a href="#" class="icon brands"><i class="fa-brands fa-instagram"></i><span class="label">Instagram</span></a></li>
+				</ul>
+
+			</div>
+			<a href="#contact" class="button style2 down anchored">Next</a>
+		</section>
+
+		<!-- Contact -->
+			<section id="contact" class="main style3 secondary">
+				<div class="content">
+					<header>
+						<h2>Contact Me</h2>
+						<p>For inquiries, press opportunities, available work, exhibit information, etc.</p>
+					</header>
+
+					<!-- Contact Form -->
+					<div class="box">
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</form>
+					</div>
+
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+
+				<!-- Icons will auto-populate from the social section -->
+					<ul class="icons"></ul>
+
+				<!-- Menu -->
+					<ul class="menu">
+
+						<!-- Copyright -->
+						<li>&copy; <span class="currentYear"></span> Cradle of Briar</li>
+						
+					</ul>
+
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/slideshow.js"></script>
+	</body>
+</html>
 
