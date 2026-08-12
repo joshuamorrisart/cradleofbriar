@@ -1531,7 +1531,7 @@ input, select, textarea {
 		.gallery .image.fit {
 			display: block;
 			overflow: hidden;
-			aspect-ratio: 1 / 1;
+			aspect-ratio: 1 / 2;
 		}
 	
 			.gallery .image.fit img {
