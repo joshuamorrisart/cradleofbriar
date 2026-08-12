@@ -1561,40 +1561,6 @@ input, select, textarea {
 		}
 
 
-
-
-
-		.gallery2 .image.fit {
-			display: block;
-			overflow: hidden;
-			aspect-ratio: 1 / 1;
-		}
-	
-			.gallery2 .image.fit img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				object-position: left;
-				transition: transform 0.3s ease;
-			}
-	
-				.gallery2 .image.fit:hover img {
-					transform: scale(1.05);
-				}
-			
-		.gallery2 article {
-			-moz-transition: -moz-transform 1s ease, opacity 1s ease;
-			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
-			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
-			transition: transform 1s ease, opacity 1s ease;
-			-moz-transform: translateX(0);
-			-webkit-transform: translateX(0);
-			-ms-transform: translateX(0);
-			transform: translateX(0);
-			width: 50%;
-			position: relative;
-			opacity: 1.0;
-		}
 			/* Remove overlay from gallery thumbnails */
 
 			.gallery article .image::before {
